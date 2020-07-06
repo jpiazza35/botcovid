@@ -1,0 +1,33 @@
+.pet-item-container{
+    display: flex;
+    max-width: 90%;
+    
+}
+
+.pet-item-container img{
+   height: 50px;
+}
+
+.pet-item-messages{
+    display: flex;
+    width: auto;
+    flex-direction: column;
+    align-items: flex-start;
+  
+}
+
+.pet-item-container label{
+    margin: 0 0 5px 10px;
+    font-size: 14px;
+    color: black;
+    background:rgba(108, 214, 196, 0.644);
+    padding: 10px;
+    border-radius: 5px;
+    width: fit-content;
+    font-weight: bolder;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 15px 0 black;
+
+
+
+}

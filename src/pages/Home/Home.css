@@ -1,0 +1,33 @@
+.home-petbot-container{
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-petbot-content{
+    width: 85%;
+    height: 100%;
+    position: absolute;
+    flex-direction: column;
+    margin: auto;
+
+}
+
+.home-petbot-greetings{
+   with: 100%;
+   height: auto;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   margin-top: 170px;
+
+
+}
+
+.home-petbot-greetings label{
+ margin-bottom: 1px;
+
+}
